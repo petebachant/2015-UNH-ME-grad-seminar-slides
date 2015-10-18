@@ -1,6 +1,7 @@
 # 2015-UNH-ME-grad-seminar-slides
 
-Slides for my Fall 2015 UNH ME grad seminar talk.
+Slides for my Fall 2015 UNH ME grad seminar talk. The slides can be seen at
+http://petebachant.me/2015-UNH-ME-grad-seminar-slides.
 
 
 ## Dependencies
